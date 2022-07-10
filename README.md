@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Body</h1>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dadik11&show_icons=true&icon_color=805AD5&text_color=666666&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=false&hide=contribs)"></p>
 
-<!--
-**Dadik11/Dadik11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadik11&show_icons=true&icon_color=805AD5&text_color=666666&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=false&hide=contribs)"></p>
+<h1>Me</h1>
+<h2>Text</h2>
 
-Here are some ideas to get you started:
+My discord : dadik#1337<br>
+My projects: <br>
+- https://walbin.lol
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2>JSON</h2>
+
+```json
+{
+  "discord":{
+    "username":"dadik",
+    "discriminator":"1337",
+    "tag":"dadik#1337"
+  },
+  "website":"https://bodyalhoha.com",
+  "projects":[
+    {
+      "name":"Walbin"
+      "links":[
+          "https://walbin.lol"
+      ]
+    }
+  ]
+}
+```
