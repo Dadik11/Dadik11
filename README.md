@@ -19,7 +19,6 @@ My projects: <br>
     "discriminator":"1337",
     "tag":"dadik#1337"
   },
-  "website":"https://bodyalhoha.com",
   "projects":[
     {
       "name":"Walbin"
