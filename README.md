@@ -7,25 +7,4 @@
 
 My discord : dadik#1337<br>
 My projects: <br>
-- https://walbin.lol
-
-
-<h2>JSON</h2>
-
-```json
-{
-  "discord":{
-    "username":"dadik",
-    "discriminator":"1337",
-    "tag":"dadik#1337"
-  },
-  "projects":[
-    {
-      "name":"Walbin"
-      "links":[
-          "https://walbin.lol"
-      ]
-    }
-  ]
-}
-```
+- none (hopefully temporary)
