@@ -5,6 +5,6 @@
 <h1>Me</h1>
 <h2>Text</h2>
 
-My discord : dadik#1339<br>
-My projects: <br>
+discord : dadik#0974<br>
+projects: <br>
 - none (hopefully temporary)
