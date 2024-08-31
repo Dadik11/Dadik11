@@ -1,6 +1,6 @@
 <h1 align="center">Dadik!!!!!!!</h1>
 ```stl
-solid Uranium STLWriter Sat 31 Aug 2024 19:43:09
+solid Mesh
 facet normal 0.0 0.0 0.0
   outer loop
     vertex 2.7329187393188477 1.076742172241211 4.5
